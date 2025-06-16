@@ -1,0 +1,162 @@
+{
+    "Career Preference": [
+        "Development Field Product Development/Resarch Development", 
+        "Job Category Development Engineer", 
+        "Preferred Area Software Development, Data Science", 
+        "Position Type Specialist/ Generalist"
+    ], 
+    "Education": [
+        "2024 Indian Institute of Technology, Delhi 学士/物理エンジニアリング", 
+        {
+            "subheading": "2020 学士/CBSE", 
+            "content": [
+                "Specific details 1", 
+                "＜Product", 
+                "Development>Title: Development of Defect Analysis AI Features for Indian Courts", 
+                "Position:  Data Science Intern at NYAAY AI Startup, developing defect analysis features aimed at", 
+                "improving judicial efficiency.", 
+                "Development Content:  Integrated AI models including \"indicTrans\" for translating Indian regional", 
+                "languages to English, \"fastText\" for language detection, \"Pytesseract\" and \"EasyOCR\" for text", 
+                "extraction from images, \"YOLOv5\" for detecting page numbers and unsigned boxes, and \"Sentence", 
+                "Transformer\" for generating document embeddings.", 
+                "Technologies Used:  indicTrans, fastText, Pytesseract, EasyOCR, YOLO, Sentence Transformer, AWS", 
+                "S3, SQS, Elastic IP, Airflow DAG, Multithreading.", 
+                "Role: Development and implementation of defect analysis features, integration and optimization of AI", 
+                "models, design and construction of data flows, deployment and performance management of the", 
+                "system.", 
+                "Methodology:  Identified defects such as missing signatures, absent page numbers, blurred pages, and", 
+                "untranslated pages. When a user uploads a file, it is stored in an AWS S3 bucket, processed through", 
+                "SQS queries, and reflected on the UI via Elastic IP. The entire process was deployed using AIRFLOW"
+            ]
+        }, 
+        {
+            "subheading": "DAG.", 
+            "content": [
+                "Work Done:  Translation of vernacular language, detection of text and page numbers from images,", 
+                "document-level embedding generation and defect analysis, overall process management and end-to-2018 学位/CBSE", 
+                "Development language/Development tool", 
+                "Development Language Java 、Python、C++", 
+                "Development Tools Git 、Visual Studio Code 、TensorFlow", 
+                "Internship(Product Development/Research Development experience)", 
+                "Role assigned Machine Learning", 
+                "2407047 モラブ阪神工業株式会社 1/5"
+            ]
+        }, 
+        {
+            "subheading": "49_7_D_W.S ＊個人情報に付きお取り扱いにご注意願います。", 
+            "content": [
+                "end implementation, ensuring data security and hosting of models.", 
+                "Challenges:", 
+                "Detection of Page Numbers:  Difficult to detect page numbers when their location is unknown.", 
+                "2407047 モラブ阪神工業株式会社 2/5"
+            ]
+        }, 
+        {
+            "subheading": "49_7_D_W.S ＊個人情報に付きお取り扱いにご注意願います。", 
+            "content": [
+                "Solution:  Trained the YOLO model with a custom dataset and used OCR to identify page numbers.", 
+                "Verification of Regional Language Translations: Models like BERT effectively captured the meaning", 
+                "of individual words and short sentences but struggled with understanding the meaning of entire", 
+                "Achievements and", 
+                "LearningAchievements:  Felt a sense of accomplishment in product development when my solution was adopted", 
+                "by the high court, speeding up court operations and allowing them to handle more cases in less time", 
+                "than before.", 
+                "Learning : Acquired skills in AWS, NLP (Natural Language Processing), computer vision, multithreading,", 
+                "and Airflow. I realized the importance of problem-solving and recognized the need for continuous skill", 
+                "improvement.", 
+                "Challenges Faced Technical Issues and Team Communication", 
+                "Leadership", 
+                "ExperienceStudent Organization, Event Planning, Project Leader"
+            ]
+        }
+    ], 
+    "About the Project": [
+        "Specific detailsProject 1:  Implementation of a Fund Management System and Airdrop Execution (Self-Made Project", 
+        "for Learning Purposes)", 
+        "Description : Developed multiple projects utilizing blockchain technology in Solidity. Implemented", 
+        "features that allow a moderator to allocate funds from a parent wallet to child wallets, and manage", 
+        "different permissions for each wallet. The system is intended mainly for fund management in families or", 
+        "small groups.", 
+        "- Developed a program using the Web3.js library to communicate with nodes on the Ropsten testnet.", 
+        "Enabled real-time communication through websockets for retrieving blockchain data and sending", 
+        "transactions.", 
+        "- Implemented a program using Merkle tree data structures to efficiently and securely conduct airdrops.", 
+        "Improved the efficiency and security of distributing specific tokens to numerous users simultaneously.", 
+        "Project 2:  Design and Manufacturing of 3D Parts", 
+        "Description:  As a member of the Aeromodelling Club at IIT Delhi, designed various 3D parts for RC", 
+        "planes using AutoCAD and manufactured them with a 3D printer. Also had the opportunity to operate", 
+        "CNC machines.", 
+        "Project 3:  Development and Implementation of an Obstacle Avoidance System (IoT)", 
+        "Description:  Implemented an obstacle avoidance system using Mavlink and YOLO to enhance drone", 
+        "safety. Developed the system for the drone using Raspberry Pi and depth cameras. Connected with", 
+        "Pixhawk (flight controller) via Mavlink and conducted object detection using YOLO. This system", 
+        "allowed the drone to automatically detect and avoid obstacles, improving flight safety and reliability.", 
+        "About Product Development", 
+        "Reason for interestProduct development is an interesting job because it integrates creativity and technical knowledge to", 
+        "produce innovative, practical, and meaningful products. Additionally, this job allows me to leverage my", 
+        "programming and problem-solving talents to develop features that meet user needs and enhance user", 
+        "satisfaction.", 
+        "Furthermore, product development allows for continuous experience in problem-solving, coding, and", 
+        "solution design, keeping me motivated in my work. I want to manage projects, collaborate with teams to", 
+        "complete them on time, and develop high-quality, user-centric products.", 
+        "2407047 モラブ阪神工業株式会社 3/5", 
+        {
+            "subheading": "49_7_D_W.S ＊個人情報に付きお取り扱いにご注意願います。", 
+            "content": [
+                "About Japanese CompaniesDesired role playedI want to leverage my technical knowledge in programming, along with my critical thinking and problem-", 
+                "solving skills, to contribute to the design and development of innovative and functional features. I aim", 
+                "to be involved in all phases of development, from brainstorming and coding to debugging and testing.", 
+                "By collaborating with the team to overcome challenges, I want to complete projects within deadlines", 
+                "and create high-quality, user-centered products that drive change.", 
+                "Research and Development", 
+                "Reason for interestI have a strong interest in research and development, particularly in the field of AI product development. My", 
+                "experience in an internship related to AI was truly fantastic. If given the opportunity, I would also like to", 
+                "engage in fundamental research in AI. I believe that both applied and theoretical research can make", 
+                "significant contributions to the field of AI.", 
+                "It is extremely rewarding to delve deeply into technical challenges, analyze current issues, explore new", 
+                "technologies, and create innovative solutions. I also find it very enjoyable to prototype innovative ideas and", 
+                "test their potential impact. Furthermore, I would be delighted to contribute to the scientific community by", 
+                "publishing research findings in academic papers or patents. The opportunity to continuously learn through", 
+                "this dynamic and exploratory work is also wonderful.", 
+                "About", 
+                "interdisciplinary", 
+                "communities of", 
+                "interest and", 
+                "research and", 
+                "developmentI am not particularly interested in academic research itself, but I am willing to pursue research in", 
+                "specific fields if it aligns with my professional duties and directly contributes to the research", 
+                "community. If research results can drive innovation and be used to solve real-world problems, that is", 
+                "very appealing to me. Therefore, I have no objections to participating in research groups or", 
+                "interdisciplinary projects.", 
+                "Interest Areas (from left to right: 1 to 3)", 
+                "Programer New field(Generative AI) Resarch and Development", 
+                "Interested in AI/ML, IoT, blockchain, and distributed ledger technology (DLT). Especially interested in AI/ML research. I", 
+                "also read relevant papers.", 
+                "Most interested pointInterested in how discipline, teamwork, and a focus on quality contribute to creating a highly", 
+                "efficient and productive work environment.", 
+                "Interested in how companies address employee happiness, work-life balance, and loyalty or", 
+                "commitment from employees.", 
+                "Japan is a country with a rich history of innovation, known for advancements in electronics,", 
+                "automotive, robotics, and healthcare. I want to explore how Japanese companies use technology", 
+                "to improve their products and services, enhance efficiency, and maintain competitiveness on the", 
+                "global stage.", 
+                "Things you want to learnI want to learn about various aspects of Japanese companies, including their management styles,", 
+                "organizational structures, methods of technological innovation, ways of enhancing international", 
+                "competitiveness, corporate culture and business practices, and how they navigate the global", 
+                "market while maintaining their unique identities. Additionally, I am interested in how these", 
+                "companies develop strategies for sustainability and long-term growth in the constantly changing", 
+                "global economy. Therefore, I would like to work for a company that values Japanese culture.", 
+                "About career paths", 
+                "2407047 モラブ阪神工業株式会社 4/5"
+            ]
+        }, 
+        {
+            "subheading": "49_7_D_W.S ＊個人情報に付きお取り扱いにご注意願います。", 
+            "content": [
+                "Interesting Roles Data scientist, AI/ML Engineer, Project Leader3 major priority factorsOpportunities for growth and advancement, a collaborative and harmonious work", 
+                "environment, and the ability to make a meaningful impact through work.", 
+                "2407047 モラブ阪神工業株式会社 5/5"
+            ]
+        }
+    ]
+}
