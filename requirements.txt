@@ -1,1 +1,8 @@
-PyPDF2==3.0.1
+pdfplumber
+PyPDF2
+pandas
+openpyxl
+requests
+beautifulsoup4
+PyYAML
+pytest

@@ -1,0 +1,48 @@
+parser:
+  pdf:
+    # Hardcoded section titles to extract from PDF
+    section_titles:
+      - Career Preference
+      - Education
+      - Specific details 1
+      - Achievements and Learning
+      - Challenges
+      - Leadership Experience
+      - About the Project
+      - About Product Development
+      - About Japanese Companies
+      - Research and Development
+      - About interdisciplinary communities of interest and research and development
+      - Interest Areas
+      - Most interested point
+      - Things you want to learn
+      - About career paths
+      - Interesting Roles
+      - 3 major priority factors
+  xlsx:
+    # Hardcoded section titles to look for in first-column cells
+    section_titles:
+      - Career Preference
+      - Education
+      - Specific details 1
+      - Achievements and Learning
+      - Challenges
+      - Leadership Experience
+      - About the Project
+      - About Product Development
+      - About Japanese Companies
+      - Research and Development
+      - About interdisciplinary communities of interest and research and development
+      - Interest Areas
+      - Most interested point
+      - Things you want to learn
+      - About career paths
+      - Interesting Roles
+      - 3 major priority factors
+scraper:
+  targets:
+    - name: sample_site
+      type: mock
+      path: "src/scraper/samples/sample_jobs.html"
+matcher:
+  top_n: 10
